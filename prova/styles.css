@@ -1,0 +1,111 @@
+.body{
+    background-color: #F5F7FA;
+}
+.logo{
+    width: 35px;
+    height: 24px;
+    margin-right: 5px;
+}
+
+.nav-link{
+    font-size: 20px;
+}
+
+.container{
+    margin-top: 300px;
+}
+
+.content {
+    width: 657px;
+    height: 276px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.content h1{
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 76px;
+}
+
+span{
+    color: #4CAF4F;
+}
+
+.content p{
+    color:#717171;
+    size: 16px;
+}
+
+.button{
+    padding: 14px, 32px, 14px, 32px;
+}
+
+.img-logo{
+    width: 45px;
+    margin-bottom: 10px;
+}
+
+.pointer{
+    font-size: 60px;
+    color: #4CAF4F;
+    opacity: .7;
+}
+
+.pointer span{
+    color: #008304;
+}
+
+.img-logo2{
+    width: 65px;
+    height: 56px;
+}
+
+.content2{
+    width: 299px;
+}
+
+.img-1{
+    width: 500px;
+    height: 433px;
+}
+
+.content-3{
+    width: 661px;
+    height: 268px;
+}
+
+.img-icon{
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 40px;
+    height: 30px;
+}
+
+.container1{
+    margin-left: 190px;
+    align-content: center;
+}
+
+.container1 h1{
+    font-size: 36px;
+}
+
+.row h2{
+    padding: 0;
+    margin: 0;
+}
+
+.row p{
+    padding: 0;
+    margin: 0;
+}
+
+.row{
+    margin-right: 200px;
+}
+
+.logo8{
+    width: 326px;
+    height: 326px;
+}
